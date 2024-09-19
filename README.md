@@ -26,12 +26,12 @@ To set up this project locally, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/IDS706-python-template.git
+    git clone https://github.com/yourusername/IDS706_Polars_Descriptive_Statistics_Script.git
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd IDS706-python-template
+    cd IDS706_Polars_Descriptive_Statistics_Script
     ```
 
 3. Create a virtual environment (optional but recommended):
