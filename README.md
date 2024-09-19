@@ -1,6 +1,6 @@
-# IDS706-python-template
+# IDS706_Polars_Descriptive_Statistics_Script
 
-This is a template repository for the IDS706 course's 1st-week assignment.
+This is a template repository for the IDS706 course's Polars Descriptive Statistics Script assignment.
 
 ![CI](https://github.com/therealzella/IDS706-python-github-template/actions/workflows/ci.yml/badge.svg)
 
