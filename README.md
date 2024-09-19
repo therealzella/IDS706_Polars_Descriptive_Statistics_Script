@@ -1,6 +1,6 @@
 # IDS706_Polars_Descriptive_Statistics_Script
 
-This is a template repository for the IDS706 course's Polars Descriptive Statistics Script assignment.
+This is a repository for the IDS706 course's Polars Descriptive Statistics Script assignment. The file `camera_dataset.csv` is used for descriptive statistics python script.
 
 ![CI](https://github.com/therealzella/IDS706-python-github-template/actions/workflows/ci.yml/badge.svg)
 
