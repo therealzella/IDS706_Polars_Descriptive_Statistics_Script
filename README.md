@@ -20,6 +20,12 @@ This repository is a Python project template designed for the IDS706 course. It 
 - A `Makefile` for automating common tasks like formatting, linting, and testing.
 - A `.gitignore` file to keep unnecessary files out of your repository.
 - A `requirements.txt` file to manage dependencies.
+- A `stats_script.py` file for the homework requirement.
+- A `summary_report.pdf`, `price_histogram.png`, and `descriptive_stats.csv` for the results after running the .py file.
+
+The script will output:
+- `price_histogram.png` - A histogram visualizing the distribution of camera prices.
+- `summary_report.pdf` - A PDF document containing the descriptive statistics.
 
 ## Installation
 To set up this project locally, follow these steps:
@@ -49,3 +55,8 @@ To set up this project locally, follow these steps:
 You can run the main script using:
 ```sh
 python main.py
+
+```
+
+## Contributing
+Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change. Please ensure to update tests as appropriate.
