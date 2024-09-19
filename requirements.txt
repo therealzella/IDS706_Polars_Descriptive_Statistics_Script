@@ -13,3 +13,4 @@ polars
 matplotlib
 pytest
 flake8
+pyarrow
